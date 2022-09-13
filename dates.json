@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Assignment 1: Stoichiometry",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-09-09T18:00:00.000Z",
+		"end": "2022-09-28T03:59:00.000Z"
+	},
+	{
+		"name": "Assignment 2: States of Matter",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-09-19T18:00:00.000Z",
+		"end": "2022-10-08T03:59:00.000Z"
+	},
+	{
+		"name": "Assignment 3: Rates of Reaction",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-10-03T18:00:00.000Z",
+		"end": "2022-11-02T03:59:00.000Z"
+	},
+	{
+		"name": "Assignment 4: Phase Equilibrium",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-10-24T18:00:00.000Z",
+		"end": "2022-11-16T04:59:00.000Z"
+	},
+	{
+		"name": "Assignment 5: Chemical Equilibrium",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-11-07T19:00:00.000Z",
+		"end": "2022-11-30T04:59:00.000Z"
+	},
+	{
+		"name": "Assignment 6: Electrochemistry",
+		"course": "CHE 102",
+		"type": "Assignment",
+		"link": "",
+		"start": "2022-11-14T19:00:00.000Z",
+		"end": "2022-12-07T04:59:00.000Z"
+	}
+]
