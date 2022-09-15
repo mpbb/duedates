@@ -1,210 +1,184 @@
 [
-	{
-		"name": "Assignment 1: Stoichiometry",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-09T18:00:00.000Z",
-		"end": "2022-09-28T03:59:00.000Z"
-	},
-	{
-		"name": "Assignment 2: States of Matter",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-19T18:00:00.000Z",
-		"end": "2022-10-08T03:59:00.000Z"
-	},
-	{
-		"name": "Assignment 3: Rates of Reaction",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-10-03T18:00:00.000Z",
-		"end": "2022-11-02T03:59:00.000Z"
-	},
-	{
-		"name": "Assignment 4: Phase Equilibrium",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-10-24T18:00:00.000Z",
-		"end": "2022-11-16T04:59:00.000Z"
-	},
-	{
-		"name": "Assignment 5: Chemical Equilibrium",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-07T19:00:00.000Z",
-		"end": "2022-11-30T04:59:00.000Z"
-	},
-	{
-		"name": "Assignment 6: Electrochemistry",
-		"course": "CHE 102",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-14T19:00:00.000Z",
-		"end": "2022-12-07T04:59:00.000Z"
-	},
-	{
-		"name": "Asn#0",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-07T04:00:00.000Z",
-		"end": "2022-09-15T01:00:00.000Z"
-	},
-	{
-		"name": "Asn#1",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-14T04:00:00.000Z",
-		"end": "2022-09-22T01:00:00.000Z"
-	},
-	{
-		"name": "Asn#2",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-21T04:00:00.000Z",
-		"end": "2022-09-29T01:00:00.000Z"
-	},
-	{
-		"name": "Asn#3",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-28T04:00:00.000Z",
-		"end": "2022-10-06T01:00:00.000Z"
-	},
-	{
-		"name": "Project#1",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-10-19T04:00:00.000Z",
-		"end": "2022-11-03T01:00:00.000Z"
-	},
-	{
-		"name": "Asn#4",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-02T04:00:00.000Z",
-		"end": "2022-11-10T02:00:00.000Z"
-	},
-	{
-		"name": "Project#2",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-09T05:00:00.000Z",
-		"end": "2022-11-24T02:00:00.000Z"
-	},
-	{
-		"name": "Asn#5",
-		"course": "SE 212",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-23T05:00:00.000Z",
-		"end": "2022-12-01T02:00:00.000Z"
-	},
-	{
-		"name": "A1",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-09T04:00:00.000Z",
-		"end": "2022-09-23T21:00:00.000Z"
-	},
-	{
-		"name": "A2",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-16T04:00:00.000Z",
-		"end": "2022-09-30T21:00:00.000Z"
-	},
-	{
-		"name": "A3",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-23T04:00:00.000Z",
-		"end": "2022-10-07T21:00:00.000Z"
-	},
-	{
-		"name": "A4",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-09-30T04:00:00.000Z",
-		"end": "2022-10-21T21:00:00.000Z"
-	},
-	{
-		"name": "A5",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-10-07T04:00:00.000Z",
-		"end": "2022-11-04T21:00:00.000Z"
-	},
-	{
-		"name": "A6",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-10-28T04:00:00.000Z",
-		"end": "2022-11-18T22:00:00.000Z"
-	},
-	{
-		"name": "A7",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-04T04:00:00.000Z",
-		"end": "2022-11-25T22:00:00.000Z"
-	},
-	{
-		"name": "A8",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-04T04:00:00.000Z",
-		"end": "2022-12-02T22:00:00.000Z"
-	},
-	{
-		"name": "A9",
-		"course": "CS 241",
-		"type": "Assignment",
-		"link": "",
-		"start": "2022-11-18T05:00:00.000Z",
-		"end": "2022-12-07T04:59:00.000Z"
-	},
-	{
-		"name": "Quiz 1",
-		"course": "STAT 206",
-		"type": "Quiz",
-		"link": "",
-		"start": "2022-09-23T17:30:00.000Z",
-		"end": "2022-09-23T18:20:00.000Z"
-	},
-	{
-		"name": "Quiz 2",
-		"course": "STAT 206",
-		"type": "Quiz",
-		"link": "",
-		"start": "2022-10-21T17:30:00.000Z",
-		"end": "2022-10-21T18:20:00.000Z"
-	},
-	{
-		"name": "Quiz 3",
-		"course": "STAT 206",
-		"type": "Quiz",
-		"link": "",
-		"start": "2022-11-25T18:30:00.000Z",
-		"end": "2022-11-25T19:20:00.000Z"
-	}
+    {
+        "name": "Assignment 1: Stoichiometry",
+        "course": "CHE 102",
+        "start": "2022-09-09T18:00:00.000Z",
+        "end": "2022-09-28T03:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Assignment 2: States of Matter",
+        "course": "CHE 102",
+        "start": "2022-09-19T18:00:00.000Z",
+        "end": "2022-10-08T03:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Assignment 3: Rates of Reaction",
+        "course": "CHE 102",
+        "start": "2022-10-03T18:00:00.000Z",
+        "end": "2022-11-02T03:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Assignment 4: Phase Equilibrium",
+        "course": "CHE 102",
+        "start": "2022-10-24T18:00:00.000Z",
+        "end": "2022-11-16T04:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Assignment 5: Chemical Equilibrium",
+        "course": "CHE 102",
+        "start": "2022-11-07T19:00:00.000Z",
+        "end": "2022-11-30T04:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Assignment 6: Electrochemistry",
+        "course": "CHE 102",
+        "start": "2022-11-14T19:00:00.000Z",
+        "end": "2022-12-07T04:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#0",
+        "course": "SE 212",
+        "start": "2022-09-07T04:00:00.000Z",
+        "end": "2022-09-15T01:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#1",
+        "course": "SE 212",
+        "start": "2022-09-14T04:00:00.000Z",
+        "end": "2022-09-22T01:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#2",
+        "course": "SE 212",
+        "start": "2022-09-21T04:00:00.000Z",
+        "end": "2022-09-29T01:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#3",
+        "course": "SE 212",
+        "start": "2022-09-28T04:00:00.000Z",
+        "end": "2022-10-06T01:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Project#1",
+        "course": "SE 212",
+        "start": "2022-10-19T04:00:00.000Z",
+        "end": "2022-11-03T01:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#4",
+        "course": "SE 212",
+        "start": "2022-11-02T04:00:00.000Z",
+        "end": "2022-11-10T02:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Project#2",
+        "course": "SE 212",
+        "start": "2022-11-09T05:00:00.000Z",
+        "end": "2022-11-24T02:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Asn#5",
+        "course": "SE 212",
+        "start": "2022-11-23T05:00:00.000Z",
+        "end": "2022-12-01T02:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A1",
+        "course": "CS 241",
+        "start": "2022-09-09T04:00:00.000Z",
+        "end": "2022-09-23T21:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A2",
+        "course": "CS 241",
+        "start": "2022-09-16T04:00:00.000Z",
+        "end": "2022-09-30T21:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A3",
+        "course": "CS 241",
+        "start": "2022-09-23T04:00:00.000Z",
+        "end": "2022-10-07T21:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A4",
+        "course": "CS 241",
+        "start": "2022-09-30T04:00:00.000Z",
+        "end": "2022-10-21T21:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A5",
+        "course": "CS 241",
+        "start": "2022-10-07T04:00:00.000Z",
+        "end": "2022-11-04T21:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A6",
+        "course": "CS 241",
+        "start": "2022-10-28T04:00:00.000Z",
+        "end": "2022-11-18T22:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A7",
+        "course": "CS 241",
+        "start": "2022-11-04T04:00:00.000Z",
+        "end": "2022-11-25T22:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A8",
+        "course": "CS 241",
+        "start": "2022-11-04T04:00:00.000Z",
+        "end": "2022-12-02T22:00:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "A9",
+        "course": "CS 241",
+        "start": "2022-11-18T05:00:00.000Z",
+        "end": "2022-12-07T04:59:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Quiz 1",
+        "course": "STAT 206",
+        "start": "2022-09-23T17:30:00.000Z",
+        "end": "2022-09-23T18:20:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Quiz 2",
+        "course": "STAT 206",
+        "start": "2022-10-21T17:30:00.000Z",
+        "end": "2022-10-21T18:20:00.000Z",
+        "room": "Online"
+    },
+    {
+        "name": "Quiz 3",
+        "course": "STAT 206",
+        "start": "2022-11-25T18:30:00.000Z",
+        "end": "2022-11-25T19:20:00.000Z",
+        "room": "Online"
+    }
 ]
